@@ -1,0 +1,19 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+
+body
+{
+	background-image: url(https://www.wallpaperflare.com/static/464/480/13/sad-quote-memes-pepe-meme-wallpaper.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+h1
+{
+	background-color: black;
+	color: white;
+	text-align: center;
+}
